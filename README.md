@@ -9,9 +9,10 @@ The analysis focused on extracting relevant information about the events and the
 I'm a big martial arts fan and this was my debut project intended to enhance my portfolio.
 
 Link to Dataset: [Ultimate UFC Dataset](https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset).
-Link do Dashboard: [UFC DashBoard](https://app.powerbi.com/view?r=eyJrIjoiOGI0ODc5ZWYtMmVhZC00MzU5LTlhMDMtMzgzOWNlNzYwNTgwIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9)
-This is the Power B.I. Version of dashboard.
 
+Link to Dashboard: [UFC DashBoard](https://app.powerbi.com/view?r=eyJrIjoiOGI0ODc5ZWYtMmVhZC00MzU5LTlhMDMtMzgzOWNlNzYwNTgwIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9)
+
+This is the Power B.I. Version of dashboard.
 - Note: It contains two pages. One for the fighters and another for the fights/events.
 
 # Required Packages
