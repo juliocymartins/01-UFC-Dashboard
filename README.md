@@ -1,35 +1,36 @@
 # UFC EDA Dashboard
 
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/1c/fc/b0/1cfcb047f35e4dcbeea08b54d9ae2063.gif">
+<img align="center" alt="Coding" width="400" src="https://i.ytimg.com/vi/2Icb95RD5vo/maxresdefault.jpg">
 
-# Overview
-This project utilizes the "Ultimate UFC Dataset" available on Kaggle, which contains comprehensive information about all UFC fights from mid-2010 to mid-2021. 
-The analysis focused on extracting relevant information about the events and the fighters.
+# Visão Geral
+Este projeto utiliza o "Ultimate UFC Dataset", disponível no Kaggle, que contém informações detalhadas sobre todas as lutas do UFC de meados de 2010 até meados de 2021.
+A análise teve como foco extrair informações relevantes sobre os eventos e os lutadores.
 
-I'm a big martial arts fan and this was my debut project intended to enhance my portfolio.
+Sou um grande fã de artes marciais e este foi meu projeto de estreia, desenvolvido com o objetivo de aprimorar meu portfólio.
 
-Link to Dataset: [Ultimate UFC Dataset](https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset).
+Link para o Dataset: [Ultimate UFC Dataset](https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset).
 
-Link to Dashboard: [UFC DashBoard](https://app.powerbi.com/view?r=eyJrIjoiOGI0ODc5ZWYtMmVhZC00MzU5LTlhMDMtMzgzOWNlNzYwNTgwIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9)
+Link para o Dashboard: [UFC DashBoard](https://app.powerbi.com/view?r=eyJrIjoiOGI0ODc5ZWYtMmVhZC00MzU5LTlhMDMtMzgzOWNlNzYwNTgwIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9)
 
-This is the Power B.I. Version of dashboard.
-- Note: It contains two pages. One for the fighters and another for the fights/events.
+Observação: O dashboard contém duas páginas – uma dedicada aos lutadores e outra para as lutas/eventos.
 
-# Required Packages
-- pandas
+# Pacotes Necessários
+• Pandas
+• Matplotlib
 
-# How to Use
-- Clone the repository to your local machine.
-- Ensure that the raw data is located in the same directory as the notebook.
-- Install the required packages using the provided command.
-- Run the Jupyter Notebook or Python scripts in the respective chapters to execute the code.
+# Como Utilizar
+• Clone o repositório para sua máquina local.
+• Certifique-se de que os dados brutos estão no mesmo diretório do notebook.
+• Instale os pacotes necessários usando o comando fornecido.
+• Execute o Jupyter Notebook ou os scripts Python nos capítulos correspondentes para rodar o código.
 
-# Repository
-- clean_data: Holds the cleaned data for the project.
-- ufc-master.csv: Contains raw data.
-- ufc_project.py: Contains the EDA process and feature extraction to create new datasets (`ufc_fighters_all.xlsx` and `ufc_fights.xlsx`), which are the clean data used in the dashboard.
+# Repositório
+• clean_data: Contém os dados limpos do projeto.
+• ufc-master.csv: Arquivo com os dados brutos.
+• ufc_project.ipynb: Contém o processo de EDA e extração de features para a criação dos novos datasets (ufc_fighters_all.xlsx e ufc_fights.xlsx), que são os dados limpos utilizados no dashboard.
+• Apresentação_UFC.pptx: Arquivo contendo uma apresentação feita no Power Point explicando o projeto.
 
-# Author
+# Autor
 Julio Cesar Yamashita Martins
 
 # E-mail
