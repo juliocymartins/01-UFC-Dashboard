@@ -1,4 +1,4 @@
-# UFC EDA Dashboard
+# UFC Dashboard
 
 <img align="center" alt="Coding" width="400" src="https://i.ytimg.com/vi/2Icb95RD5vo/maxresdefault.jpg">
 
