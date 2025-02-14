@@ -15,20 +15,20 @@ Link para o Dashboard: [UFC DashBoard](https://app.powerbi.com/view?r=eyJrIjoiOG
 Observação: O dashboard contém duas páginas – uma dedicada aos lutadores e outra para as lutas/eventos.
 
 # Pacotes Necessários
-• Pandas
-• Matplotlib
+- Pandas
+- Matplotlib
 
 # Como Utilizar
-• Clone o repositório para sua máquina local.
-• Certifique-se de que os dados brutos estão no mesmo diretório do notebook.
-• Instale os pacotes necessários usando o comando fornecido.
-• Execute o Jupyter Notebook ou os scripts Python nos capítulos correspondentes para rodar o código.
+- Clone o repositório para sua máquina local.
+- Certifique-se de que os dados brutos estão no mesmo diretório do notebook.
+- Instale os pacotes necessários usando o comando fornecido.
+- Execute o Jupyter Notebook ou os scripts Python nos capítulos correspondentes para rodar o código.
 
 # Repositório
-• clean_data: Contém os dados limpos do projeto.
-• ufc-master.csv: Arquivo com os dados brutos.
-• ufc_project.ipynb: Contém o processo de EDA e extração de features para a criação dos novos datasets (ufc_fighters_all.xlsx e ufc_fights.xlsx), que são os dados limpos utilizados no dashboard.
-• Apresentação_UFC.pptx: Arquivo contendo uma apresentação feita no Power Point explicando o projeto.
+- clean_data: Contém os dados limpos do projeto.
+- ufc-master.csv: Arquivo com os dados brutos.
+- ufc_project.ipynb: Contém o processo de EDA e extração de features para a criação dos novos datasets (ufc_fighters_all.xlsx e ufc_fights.xlsx), que são os dados limpos utilizados no dashboard.
+- Apresentação_UFC.pptx: Arquivo contendo uma apresentação feita no Power Point explicando o projeto.
 
 # Autor
 Julio Cesar Yamashita Martins
