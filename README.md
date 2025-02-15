@@ -21,7 +21,7 @@ Observação: O dashboard contém duas páginas – uma dedicada aos lutadores e
 # Como Utilizar
 - Clone o repositório para sua máquina local.
 - Certifique-se de que os dados brutos estão no mesmo diretório do notebook.
-- Instale os pacotes necessários usando o comando fornecido.
+- Instale os pacotes necessários.
 - Execute o Jupyter Notebook ou os scripts Python nos capítulos correspondentes para rodar o código.
 
 # Repositório
@@ -31,7 +31,7 @@ Observação: O dashboard contém duas páginas – uma dedicada aos lutadores e
 - Apresentação_UFC.pptx: Arquivo contendo uma apresentação feita no Power Point explicando o projeto.
 
 # Autor
-Julio Cesar Yamashita Martins
+Julio Martins
 
 # E-mail
 yamashitajulio@gmail.com
